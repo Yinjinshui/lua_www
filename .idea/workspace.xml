@@ -11,24 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8a8a45f9-46a7-4de6-bc76-f967e3293b8d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/lua-www.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class/Rectangle.lua" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class/RestyRedisClass.lua" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/resty-redis.lua" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf.d/test.lua.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/conf.lua" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geoip/GeoLite2-Country.mmdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geoip/geoip.lua" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geoip/test.lua" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geoip/testclass.lua" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lua说明.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nginx.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +61,8 @@
       <workItem from="1626249035804" duration="241000" />
       <workItem from="1626250067392" duration="80000" />
       <workItem from="1626250157954" duration="1250000" />
-      <workItem from="1626315333545" duration="610000" />
+      <workItem from="1626315333545" duration="711000" />
+      <workItem from="1626326655925" duration="89000" />
     </task>
     <servers />
   </component>
@@ -95,12 +79,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="743" y="330" key="FileChooserDialogImpl" timestamp="1626255580460">
+    <state x="743" y="330" key="FileChooserDialogImpl" timestamp="1626316043106">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="743" y="330" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1626255580460" />
+    <state x="743" y="330" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1626316043106" />
     <state x="613" y="161" key="SettingsEditor" timestamp="1626250147540">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
