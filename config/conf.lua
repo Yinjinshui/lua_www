@@ -6,6 +6,14 @@
 conf_arr={}
 
 --设置redis ip
-conf_arr.resty_redis = {hostname="127.0.0.1",port=6379}
---站点key
-conf_arr.site_data_key="site::data::key"
+conf_arr.resty_redis = {hostname="127.0.0.1",port=6379,passwd="redisPass6379",database=1}
+--获取所有国家编码 json
+--php 使用序列化的方式
+conf_arr.site_country_code="site::country::code"
+--获取当前支持的所有国家
+conf_arr.site_language_code="site::all::language::code"
+--获取默认支持的国家
+conf_arr.site_language_code="site::default::language::code"
+
+
+return conf_arr

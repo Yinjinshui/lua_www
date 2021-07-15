@@ -7,13 +7,13 @@ package.path = "/usr/local/openresty/lualib/vevor-lua/?.lua;" .. package.path
 require("config.conf")
 require("class.RestyRedisClass")
 --测试类
-local aredis=RestyRedisClass:new(nil,conf_arr.resty_redis['hostname'],conf_arr.resty_redis['port'])
-aredis:setName('1111',os.date("%Y-%m-%d %H:%M:%S"))
+local redisObj=RestyRedisClass:new(nil,conf_arr.resty_redis['hostname'],conf_arr.resty_redis['port'],conf_arr.resty_redis['passwd'],conf_arr.resty_redis['database'])
+redisObj:setName('1111',os.date("%Y-%m-%d %H:%M:%S"))
 
 
 --引入单机版redis模块
-require("common.resty-redis")
-local dredis = resty_redis.init(conf_arr.resty_redis['hostname'],conf_arr.resty_redis['port']);
+require("common.resty_redis")
+local dredis = resty_redis.init(conf_arr.resty_redis['hostname'],conf_arr.resty_redis['port'],conf_arr.resty_redis['passwd'],conf_arr.resty_redis['database']);
 
 --获取独立站配置数据
 local site_data = resty_redis.getName(conf_arr.site_data_key)

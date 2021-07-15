@@ -12,6 +12,10 @@
   <component name="ChangeListManager">
     <list default="true" id="8a8a45f9-46a7-4de6-bc76-f967e3293b8d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/common_func.lua" beforeDir="false" afterPath="$PROJECT_DIR$/common/common_func.lua" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/resty-redis.lua" beforeDir="false" afterPath="$PROJECT_DIR$/common/resty_redis.lua" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/conf.lua" beforeDir="false" afterPath="$PROJECT_DIR$/config/conf.lua" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geoip/geoip.lua" beforeDir="false" afterPath="$PROJECT_DIR$/geoip/geoip.lua" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,12 +40,14 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/geoip" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\www\lua-www\geoip" />
+      <recent name="E:\www\lua-www\common" />
+      <recent name="E:\www\lua-www\config" />
     </key>
   </component>
   <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
@@ -62,7 +68,7 @@
       <workItem from="1626250067392" duration="80000" />
       <workItem from="1626250157954" duration="1250000" />
       <workItem from="1626315333545" duration="711000" />
-      <workItem from="1626326655925" duration="89000" />
+      <workItem from="1626326655925" duration="3824000" />
     </task>
     <servers />
   </component>

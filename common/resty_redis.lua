@@ -7,17 +7,20 @@ since:210714
 resty_redis = {}
 
 --redis初始化
-function resty_redis.init(hostname,port)
+function resty_redis.init(hostname,port,passwd,database)
     local redis = require "resty.redis"
     red = redis:new()
     red:set_timeouts(1000, 1000, 1000) -- 1 sec
     --lua 连接redis
     local ok,err = red:connect(hostname, port)
-
+    if passwd ~= "" then
+        red:auth(passwd)
+    end
     if not ok then
         ngx.say('{"code":"203","msg":'..err..'}')
         ngx.exit(200)
     end
+    red:select(database)
     return red
 end
 
