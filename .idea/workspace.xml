@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8a8a45f9-46a7-4de6-bc76-f967e3293b8d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/lua-www.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class/Rectangle.lua" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class/RestyRedisClass.lua" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/resty-redis.lua" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conf.d/test.lua.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/conf.lua" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geoip/GeoLite2-Country.mmdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geoip/geoip.lua" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geoip/test.lua" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geoip/testclass.lua" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lua说明.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nginx.conf" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1vINt9Q06HlKkcFXlj82exY9I55" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\www\lua-www\geoip" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a8a45f9-46a7-4de6-bc76-f967e3293b8d" name="Default Changelist" comment="" />
+      <created>1626245855584</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626245855584</updated>
+      <workItem from="1626245865647" duration="690000" />
+      <workItem from="1626247887425" duration="258000" />
+      <workItem from="1626248158735" duration="74000" />
+      <workItem from="1626249035804" duration="241000" />
+      <workItem from="1626250067392" duration="80000" />
+      <workItem from="1626250157954" duration="1250000" />
+      <workItem from="1626315333545" duration="610000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="743" y="330" key="FileChooserDialogImpl" timestamp="1626255580460">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="743" y="330" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1626255580460" />
+    <state x="613" y="161" key="SettingsEditor" timestamp="1626250147540">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="613" y="161" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1626250147540" />
+  </component>
+</project>
